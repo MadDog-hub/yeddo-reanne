@@ -36,7 +36,7 @@ const EntourageSection = () => {
           <div className="grid grid-cols-2 gap-4 md:gap-8">
             <div className="space-y-2">
               <p className="text-sm md:text-lg text-foreground/90">Bro. Juanito G. Sangalang</p>
-              <p className="text-sm md:text-lg text-foreground/90">Bro. Mark Dc. Fabella</p>
+              <p className="text-sm md:text-lg text-foreground/90">Bro. Mark DG. Fabella</p>
               <p className="text-sm md:text-lg text-foreground/90">Bro. Rodolfo A. Iglesias Jr</p>
               <p className="text-sm md:text-lg text-foreground/90">Bro. Ronaldo G. Luciano</p>
               <p className="text-sm md:text-lg text-foreground/90">Bro. Jupiter Z. Sanjorjo</p>
